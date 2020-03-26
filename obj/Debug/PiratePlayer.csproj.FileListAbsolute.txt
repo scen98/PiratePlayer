@@ -1,0 +1,237 @@
+E:\vprojects\!realprojekts\PPlayer\PiratePlayer\bin\Debug\PiratePlayer.exe.config
+E:\vprojects\!realprojekts\PPlayer\PiratePlayer\bin\Debug\PiratePlayer.exe
+E:\vprojects\!realprojekts\PPlayer\PiratePlayer\bin\Debug\PiratePlayer.pdb
+E:\vprojects\!realprojekts\PPlayer\PiratePlayer\bin\Debug\CommonServiceLocator.dll
+E:\vprojects\!realprojekts\PPlayer\PiratePlayer\bin\Debug\Prism.dll
+E:\vprojects\!realprojekts\PPlayer\PiratePlayer\bin\Debug\Prism.Wpf.dll
+E:\vprojects\!realprojekts\PPlayer\PiratePlayer\bin\Debug\System.ValueTuple.dll
+E:\vprojects\!realprojekts\PPlayer\PiratePlayer\bin\Debug\System.Windows.Interactivity.dll
+E:\vprojects\!realprojekts\PPlayer\PiratePlayer\bin\Debug\ViewModels.dll
+E:\vprojects\!realprojekts\PPlayer\PiratePlayer\bin\Debug\Models.dll
+E:\vprojects\!realprojekts\PPlayer\PiratePlayer\bin\Debug\ViewModels.pdb
+E:\vprojects\!realprojekts\PPlayer\PiratePlayer\bin\Debug\Prism.pdb
+E:\vprojects\!realprojekts\PPlayer\PiratePlayer\bin\Debug\Prism.xml
+E:\vprojects\!realprojekts\PPlayer\PiratePlayer\bin\Debug\Prism.Wpf.pdb
+E:\vprojects\!realprojekts\PPlayer\PiratePlayer\bin\Debug\Prism.Wpf.xml
+E:\vprojects\!realprojekts\PPlayer\PiratePlayer\bin\Debug\System.ValueTuple.xml
+E:\vprojects\!realprojekts\PPlayer\PiratePlayer\bin\Debug\Models.pdb
+E:\vprojects\!realprojekts\PPlayer\PiratePlayer\obj\Debug\PiratePlayer.csprojAssemblyReference.cache
+E:\vprojects\!realprojekts\PPlayer\PiratePlayer\obj\Debug\Assets\MainDictionary.baml
+E:\vprojects\!realprojekts\PPlayer\PiratePlayer\obj\Debug\MainWindow.g.cs
+E:\vprojects\!realprojekts\PPlayer\PiratePlayer\obj\Debug\UC\Pages\All.g.cs
+E:\vprojects\!realprojekts\PPlayer\PiratePlayer\obj\Debug\App.g.cs
+E:\vprojects\!realprojekts\PPlayer\PiratePlayer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\vprojects\!realprojekts\PPlayer\PiratePlayer\obj\Debug\PiratePlayer_MarkupCompile.cache
+E:\vprojects\!realprojekts\PPlayer\PiratePlayer\obj\Debug\PiratePlayer_MarkupCompile.lref
+E:\vprojects\!realprojekts\PPlayer\PiratePlayer\obj\Debug\App.baml
+E:\vprojects\!realprojekts\PPlayer\PiratePlayer\obj\Debug\MainWindow.baml
+E:\vprojects\!realprojekts\PPlayer\PiratePlayer\obj\Debug\UC\Pages\All.baml
+E:\vprojects\!realprojekts\PPlayer\PiratePlayer\obj\Debug\PiratePlayer.g.resources
+E:\vprojects\!realprojekts\PPlayer\PiratePlayer\obj\Debug\PiratePlayer.Properties.Resources.resources
+E:\vprojects\!realprojekts\PPlayer\PiratePlayer\obj\Debug\PiratePlayer.csproj.GenerateResource.cache
+E:\vprojects\!realprojekts\PPlayer\PiratePlayer\obj\Debug\PiratePlayer.csproj.CopyComplete
+E:\vprojects\!realprojekts\PPlayer\PiratePlayer\obj\Debug\PiratePlayer.exe
+E:\vprojects\!realprojekts\PPlayer\PiratePlayer\obj\Debug\PiratePlayer.pdb
+E:\vprojects\!realprojekts\PPlayer\PiratePlayer\obj\Debug\UC\Controls\VolumeControl.g.cs
+E:\vprojects\!realprojekts\PPlayer\PiratePlayer\obj\Debug\UC\Controls\VolumeControl.baml
+E:\vprojects\!realprojekts\PPlayer\PiratePlayer\obj\Debug\UC\Pages\Albums.g.cs
+E:\vprojects\!realprojekts\PPlayer\PiratePlayer\obj\Debug\UC\Pages\Albums.baml
+E:\vprojects\!realprojekts\PPlayer\PiratePlayer\obj\Debug\UC\Pages\Artists.g.cs
+E:\vprojects\!realprojekts\PPlayer\PiratePlayer\obj\Debug\UC\Pages\Artists.baml
+E:\vprojects\!realprojekts\PPlayer\PiratePlayer\bin\Debug\ATL.dll
+E:\vprojects\!realprojekts\PPlayer\PiratePlayer\obj\Debug\UC\Pages\PlayLists.g.cs
+E:\vprojects\!realprojekts\PPlayer\PiratePlayer\obj\Debug\UC\Pages\PlayLists.baml
+X:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\bin\Debug\PiratePlayer.exe.config
+X:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\obj\Debug\PiratePlayer.exe
+X:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\obj\Debug\PiratePlayer.pdb
+X:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\bin\Debug\PiratePlayer.exe
+X:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\bin\Debug\PiratePlayer.pdb
+X:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\bin\Debug\CommonServiceLocator.dll
+X:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\bin\Debug\Prism.dll
+X:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\bin\Debug\Prism.Wpf.dll
+X:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\bin\Debug\System.ValueTuple.dll
+X:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\bin\Debug\System.Windows.Interactivity.dll
+X:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\bin\Debug\ViewModels.dll
+X:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\bin\Debug\Models.dll
+X:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\bin\Debug\ATL.dll
+X:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\bin\Debug\ViewModels.pdb
+X:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\bin\Debug\Prism.pdb
+X:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\bin\Debug\Prism.xml
+X:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\bin\Debug\Prism.Wpf.pdb
+X:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\bin\Debug\Prism.Wpf.xml
+X:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\bin\Debug\System.ValueTuple.xml
+X:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\bin\Debug\Models.pdb
+X:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\obj\Debug\Assets\MainDictionary.baml
+X:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\obj\Debug\MainWindow.g.cs
+X:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\obj\Debug\UC\Controls\VolumeControl.g.cs
+X:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\obj\Debug\UC\Pages\Albums.g.cs
+X:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\obj\Debug\UC\Pages\All.g.cs
+X:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\obj\Debug\UC\Pages\Artists.g.cs
+X:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\obj\Debug\UC\Pages\PlayLists.g.cs
+X:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\obj\Debug\App.g.cs
+X:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+X:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\obj\Debug\PiratePlayer_MarkupCompile.cache
+X:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\obj\Debug\PiratePlayer_MarkupCompile.lref
+X:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\obj\Debug\App.baml
+X:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\obj\Debug\MainWindow.baml
+X:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\obj\Debug\UC\Controls\VolumeControl.baml
+X:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\obj\Debug\UC\Pages\Albums.baml
+X:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\obj\Debug\UC\Pages\All.baml
+X:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\obj\Debug\UC\Pages\Artists.baml
+X:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\obj\Debug\UC\Pages\PlayLists.baml
+X:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\obj\Debug\PiratePlayer.g.resources
+X:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\obj\Debug\PiratePlayer.Properties.Resources.resources
+X:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\obj\Debug\PiratePlayer.csproj.GenerateResource.Cache
+X:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\obj\Debug\PiratePlayer.csprojResolveAssemblyReference.cache
+e:\vprojects\PPlayer\PiratePlayer\bin\Debug\PiratePlayer.exe.config
+e:\vprojects\PPlayer\PiratePlayer\bin\Debug\PiratePlayer.exe
+e:\vprojects\PPlayer\PiratePlayer\bin\Debug\PiratePlayer.pdb
+e:\vprojects\PPlayer\PiratePlayer\bin\Debug\CommonServiceLocator.dll
+e:\vprojects\PPlayer\PiratePlayer\bin\Debug\Prism.dll
+e:\vprojects\PPlayer\PiratePlayer\bin\Debug\Prism.Wpf.dll
+e:\vprojects\PPlayer\PiratePlayer\bin\Debug\System.ValueTuple.dll
+e:\vprojects\PPlayer\PiratePlayer\bin\Debug\System.Windows.Interactivity.dll
+e:\vprojects\PPlayer\PiratePlayer\bin\Debug\ViewModels.dll
+e:\vprojects\PPlayer\PiratePlayer\bin\Debug\Models.dll
+e:\vprojects\PPlayer\PiratePlayer\bin\Debug\ATL.dll
+e:\vprojects\PPlayer\PiratePlayer\bin\Debug\ViewModels.pdb
+e:\vprojects\PPlayer\PiratePlayer\bin\Debug\Prism.pdb
+e:\vprojects\PPlayer\PiratePlayer\bin\Debug\Prism.xml
+e:\vprojects\PPlayer\PiratePlayer\bin\Debug\Prism.Wpf.pdb
+e:\vprojects\PPlayer\PiratePlayer\bin\Debug\Prism.Wpf.xml
+e:\vprojects\PPlayer\PiratePlayer\bin\Debug\System.ValueTuple.xml
+e:\vprojects\PPlayer\PiratePlayer\bin\Debug\Models.pdb
+e:\vprojects\PPlayer\PiratePlayer\obj\Debug\PiratePlayer.csprojAssemblyReference.cache
+e:\vprojects\PPlayer\PiratePlayer\obj\Debug\Assets\MainDictionary.baml
+e:\vprojects\PPlayer\PiratePlayer\obj\Debug\MainWindow.g.cs
+e:\vprojects\PPlayer\PiratePlayer\obj\Debug\UC\Controls\VolumeControl.g.cs
+e:\vprojects\PPlayer\PiratePlayer\obj\Debug\UC\Pages\Albums.g.cs
+e:\vprojects\PPlayer\PiratePlayer\obj\Debug\UC\Pages\All.g.cs
+e:\vprojects\PPlayer\PiratePlayer\obj\Debug\UC\Pages\Artists.g.cs
+e:\vprojects\PPlayer\PiratePlayer\obj\Debug\UC\Pages\PlayLists.g.cs
+e:\vprojects\PPlayer\PiratePlayer\obj\Debug\App.g.cs
+e:\vprojects\PPlayer\PiratePlayer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+e:\vprojects\PPlayer\PiratePlayer\obj\Debug\PiratePlayer_MarkupCompile.cache
+e:\vprojects\PPlayer\PiratePlayer\obj\Debug\PiratePlayer_MarkupCompile.lref
+e:\vprojects\PPlayer\PiratePlayer\obj\Debug\App.baml
+e:\vprojects\PPlayer\PiratePlayer\obj\Debug\MainWindow.baml
+e:\vprojects\PPlayer\PiratePlayer\obj\Debug\UC\Controls\VolumeControl.baml
+e:\vprojects\PPlayer\PiratePlayer\obj\Debug\UC\Pages\Albums.baml
+e:\vprojects\PPlayer\PiratePlayer\obj\Debug\UC\Pages\All.baml
+e:\vprojects\PPlayer\PiratePlayer\obj\Debug\UC\Pages\Artists.baml
+e:\vprojects\PPlayer\PiratePlayer\obj\Debug\UC\Pages\PlayLists.baml
+e:\vprojects\PPlayer\PiratePlayer\obj\Debug\PiratePlayer.g.resources
+e:\vprojects\PPlayer\PiratePlayer\obj\Debug\PiratePlayer.Properties.Resources.resources
+e:\vprojects\PPlayer\PiratePlayer\obj\Debug\PiratePlayer.csproj.GenerateResource.cache
+e:\vprojects\PPlayer\PiratePlayer\obj\Debug\PiratePlayer.csproj.CopyComplete
+e:\vprojects\PPlayer\PiratePlayer\obj\Debug\PiratePlayer.exe
+e:\vprojects\PPlayer\PiratePlayer\obj\Debug\PiratePlayer.pdb
+E:\vprojects\!realprojekts\PPlayer\PiratePlayer\obj\Debug\UC\Controls\ToolBar.g.cs
+E:\vprojects\!realprojekts\PPlayer\PiratePlayer\obj\Debug\UC\Controls\ToolBar.baml
+X:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\obj\Debug\UC\Controls\ToolBar.g.cs
+X:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\obj\Debug\UC\Controls\ToolBar.baml
+e:\vprojects\!realprojekts\PPlayer\PiratePlayer\obj\Debug\UC\Controls\SongGrid.g.cs
+e:\vprojects\!realprojekts\PPlayer\PiratePlayer\obj\Debug\UC\Controls\SongGrid.baml
+j:\realprojekts\PPlayer\PiratePlayer\bin\Debug\PiratePlayer.exe.config
+j:\realprojekts\PPlayer\PiratePlayer\bin\Debug\PiratePlayer.exe
+j:\realprojekts\PPlayer\PiratePlayer\bin\Debug\PiratePlayer.pdb
+j:\realprojekts\PPlayer\PiratePlayer\bin\Debug\CommonServiceLocator.dll
+j:\realprojekts\PPlayer\PiratePlayer\bin\Debug\Models.dll
+j:\realprojekts\PPlayer\PiratePlayer\bin\Debug\Prism.dll
+j:\realprojekts\PPlayer\PiratePlayer\bin\Debug\Prism.Wpf.dll
+j:\realprojekts\PPlayer\PiratePlayer\bin\Debug\System.ValueTuple.dll
+j:\realprojekts\PPlayer\PiratePlayer\bin\Debug\System.Windows.Interactivity.dll
+j:\realprojekts\PPlayer\PiratePlayer\bin\Debug\ViewModels.dll
+j:\realprojekts\PPlayer\PiratePlayer\bin\Debug\ATL.dll
+j:\realprojekts\PPlayer\PiratePlayer\bin\Debug\Models.pdb
+j:\realprojekts\PPlayer\PiratePlayer\bin\Debug\ViewModels.pdb
+j:\realprojekts\PPlayer\PiratePlayer\bin\Debug\Prism.pdb
+j:\realprojekts\PPlayer\PiratePlayer\bin\Debug\Prism.xml
+j:\realprojekts\PPlayer\PiratePlayer\bin\Debug\Prism.Wpf.pdb
+j:\realprojekts\PPlayer\PiratePlayer\bin\Debug\Prism.Wpf.xml
+j:\realprojekts\PPlayer\PiratePlayer\bin\Debug\System.ValueTuple.xml
+j:\realprojekts\PPlayer\PiratePlayer\obj\Debug\PiratePlayer.csprojAssemblyReference.cache
+j:\realprojekts\PPlayer\PiratePlayer\obj\Debug\Assets\MainDictionary.baml
+j:\realprojekts\PPlayer\PiratePlayer\obj\Debug\MainWindow.g.cs
+j:\realprojekts\PPlayer\PiratePlayer\obj\Debug\UC\Controls\SongGrid.g.cs
+j:\realprojekts\PPlayer\PiratePlayer\obj\Debug\UC\Controls\ToolBar.g.cs
+j:\realprojekts\PPlayer\PiratePlayer\obj\Debug\UC\Controls\VolumeControl.g.cs
+j:\realprojekts\PPlayer\PiratePlayer\obj\Debug\UC\Pages\Albums.g.cs
+j:\realprojekts\PPlayer\PiratePlayer\obj\Debug\UC\Pages\All.g.cs
+j:\realprojekts\PPlayer\PiratePlayer\obj\Debug\UC\Pages\Artists.g.cs
+j:\realprojekts\PPlayer\PiratePlayer\obj\Debug\UC\Pages\PlayLists.g.cs
+j:\realprojekts\PPlayer\PiratePlayer\obj\Debug\App.g.cs
+j:\realprojekts\PPlayer\PiratePlayer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+j:\realprojekts\PPlayer\PiratePlayer\obj\Debug\PiratePlayer_MarkupCompile.cache
+j:\realprojekts\PPlayer\PiratePlayer\obj\Debug\PiratePlayer_MarkupCompile.lref
+j:\realprojekts\PPlayer\PiratePlayer\obj\Debug\App.baml
+j:\realprojekts\PPlayer\PiratePlayer\obj\Debug\MainWindow.baml
+j:\realprojekts\PPlayer\PiratePlayer\obj\Debug\UC\Controls\SongGrid.baml
+j:\realprojekts\PPlayer\PiratePlayer\obj\Debug\UC\Controls\ToolBar.baml
+j:\realprojekts\PPlayer\PiratePlayer\obj\Debug\UC\Controls\VolumeControl.baml
+j:\realprojekts\PPlayer\PiratePlayer\obj\Debug\UC\Pages\Albums.baml
+j:\realprojekts\PPlayer\PiratePlayer\obj\Debug\UC\Pages\All.baml
+j:\realprojekts\PPlayer\PiratePlayer\obj\Debug\UC\Pages\Artists.baml
+j:\realprojekts\PPlayer\PiratePlayer\obj\Debug\UC\Pages\PlayLists.baml
+j:\realprojekts\PPlayer\PiratePlayer\obj\Debug\PiratePlayer.g.resources
+j:\realprojekts\PPlayer\PiratePlayer\obj\Debug\PiratePlayer.Properties.Resources.resources
+j:\realprojekts\PPlayer\PiratePlayer\obj\Debug\PiratePlayer.csproj.GenerateResource.cache
+j:\realprojekts\PPlayer\PiratePlayer\obj\Debug\PiratePlayer.csproj.CopyComplete
+j:\realprojekts\PPlayer\PiratePlayer\obj\Debug\PiratePlayer.exe
+j:\realprojekts\PPlayer\PiratePlayer\obj\Debug\PiratePlayer.pdb
+X:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\obj\Debug\UC\Controls\SongGrid.g.cs
+X:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\obj\Debug\UC\Controls\SongGrid.baml
+X:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\obj\Debug\Mini.g.cs
+X:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\obj\Debug\Mini.baml
+E:\vprojects\!realprojekts\PPlayer\PiratePlayer\obj\Debug\Mini.g.cs
+E:\vprojects\!realprojekts\PPlayer\PiratePlayer\obj\Debug\Mini.baml
+Z:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\bin\Debug\PiratePlayer.exe.config
+Z:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\obj\Debug\PiratePlayer.exe
+Z:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\obj\Debug\PiratePlayer.pdb
+Z:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\bin\Debug\PiratePlayer.exe
+Z:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\bin\Debug\PiratePlayer.pdb
+Z:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\bin\Debug\CommonServiceLocator.dll
+Z:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\bin\Debug\Models.dll
+Z:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\bin\Debug\Prism.dll
+Z:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\bin\Debug\Prism.Wpf.dll
+Z:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\bin\Debug\System.ValueTuple.dll
+Z:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\bin\Debug\System.Windows.Interactivity.dll
+Z:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\bin\Debug\ViewModels.dll
+Z:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\bin\Debug\ATL.dll
+Z:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\bin\Debug\Models.pdb
+Z:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\bin\Debug\ViewModels.pdb
+Z:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\bin\Debug\Prism.pdb
+Z:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\bin\Debug\Prism.xml
+Z:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\bin\Debug\Prism.Wpf.pdb
+Z:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\bin\Debug\Prism.Wpf.xml
+Z:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\bin\Debug\System.ValueTuple.xml
+Z:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\obj\Debug\Assets\MainDictionary.baml
+Z:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\obj\Debug\MainWindow.g.cs
+Z:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\obj\Debug\Mini.g.cs
+Z:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\obj\Debug\UC\Controls\SongGrid.g.cs
+Z:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\obj\Debug\UC\Controls\ToolBar.g.cs
+Z:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\obj\Debug\UC\Controls\VolumeControl.g.cs
+Z:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\obj\Debug\UC\Pages\Albums.g.cs
+Z:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\obj\Debug\UC\Pages\All.g.cs
+Z:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\obj\Debug\UC\Pages\Artists.g.cs
+Z:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\obj\Debug\UC\Pages\PlayLists.g.cs
+Z:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\obj\Debug\App.g.cs
+Z:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+Z:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\obj\Debug\PiratePlayer_MarkupCompile.cache
+Z:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\obj\Debug\PiratePlayer_MarkupCompile.lref
+Z:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\obj\Debug\App.baml
+Z:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\obj\Debug\MainWindow.baml
+Z:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\obj\Debug\Mini.baml
+Z:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\obj\Debug\UC\Controls\SongGrid.baml
+Z:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\obj\Debug\UC\Controls\ToolBar.baml
+Z:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\obj\Debug\UC\Controls\VolumeControl.baml
+Z:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\obj\Debug\UC\Pages\Albums.baml
+Z:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\obj\Debug\UC\Pages\All.baml
+Z:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\obj\Debug\UC\Pages\Artists.baml
+Z:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\obj\Debug\UC\Pages\PlayLists.baml
+Z:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\obj\Debug\PiratePlayer.g.resources
+Z:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\obj\Debug\PiratePlayer.Properties.Resources.resources
+Z:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\obj\Debug\PiratePlayer.csproj.GenerateResource.Cache
+Z:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\obj\Debug\PiratePlayer.csprojAssemblyReference.cache
+Z:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\obj\Debug\PiratePlayer.csproj.CoreCompileInputs.cache
+Z:\!Szoftverfejleszto\2019-2021\A csoport\Sándor Zebulon Bence\projects\PPlayer\PiratePlayer\obj\Debug\PiratePlayer.csproj.CopyComplete

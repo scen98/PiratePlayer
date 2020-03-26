@@ -1,0 +1,19 @@
+﻿<UserControl x:Class="PiratePlayer.UC.Controls.SongGrid"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:PiratePlayer.UC.Controls"
+             mc:Ignorable="d" 
+             d:DesignHeight="800" d:DesignWidth="1600">
+    <Grid>
+        <DataGrid ItemsSource="{Binding Path=SongList, Mode=OneWay}" AutoGenerateColumns="False" IsReadOnly="True" SelectionChanged="DataGrid_SelectionChanged" HorizontalAlignment="Left" Height="Auto" VerticalAlignment="Top" Width="Auto" >
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Title" HeaderStyle="{StaticResource SecondaryHeader}" Binding="{Binding Title}" Width="*" />
+                <DataGridTextColumn Header="Artist" HeaderStyle="{StaticResource SecondaryHeader}" Binding="{Binding Artist}"  CellStyle="{StaticResource ValueCell}" Width="*"/>
+                <DataGridTextColumn Header="Album" HeaderStyle="{StaticResource SecondaryHeader}" Binding="{Binding Album}"  CellStyle="{StaticResource ValueCell}" Width="*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+    </Grid>
+</UserControl>

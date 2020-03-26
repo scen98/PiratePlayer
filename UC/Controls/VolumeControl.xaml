@@ -1,0 +1,12 @@
+﻿<UserControl x:Class="PiratePlayer.UC.Controls.VolumeControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:PiratePlayer.UC.Controls"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="300">
+    <Grid x:Name="LayoutRoot" PreviewMouseWheel="LayoutRoot_PreviewMouseWheel" Background="Transparent" >
+        <Slider Visibility="{Binding Path=SliderVisibility}" Minimum="0" Maximum="0.98" Value="{Binding Path=Value, Mode=TwoWay}" IsMoveToPointEnabled="True" HorizontalAlignment="Center" Grid.Row="0" Grid.Column="0" Orientation="Vertical" PreviewMouseWheel="Slider_PreviewMouseWheel"/>
+    </Grid>
+</UserControl>
